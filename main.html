@@ -1,0 +1,22 @@
+<!-- Jumbotron -->
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-4">
+            <img ng-src="http://www.freeiconspng.com/uploads/system-computer-icon--metronome-iconset--cornmanthe3rd-14.png">
+        </div>
+        <div class="col-md-8">
+            <h1>MeetUpMedia</h1>
+            <p class="lead">MeetUpMedia is a premier Repair and Internet Lead Generation company with the primary objective of providing solutions from our experts to move their work forward by connecting them directly to our customer support.</p>
+        </div>
+    </div>
+</div>
+
+<!-- Example row of columns -->
+<div class="row">
+    <div ng-repeat="service in services">
+        <div class="col-lg-4">
+            <h2>{{service.name}}</h2>
+            <p>{{service.description}}</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Hardware Repair",
+        "description": "Warranty and out-of-warranty hardware repairs on Apple, Dell, and Lenovo Think-branded computers.Services include: Full hardware diagnostics Parts ordering and installation Memory and hard drive upgrades Out-of-warranty hardware repairs on other model computers may include: Memory and hard drive replacement Software repair services include: Operating system and software installation (based on the terms of MeetUpMedia license agreements with software vendors) Data recovery and disaster assessment Network and wireless troubleshooting Virus, spyware, and adware removal",
+        "image": "computer-icon.png"
+    },
+    {
+        "id": 2,
+        "name": "Virus Removal",
+        "description": "You may notice the small windows which 'pop up' on the top of the website, or when you try to visit a website, your expected website does not open and instead gets redirected to another website. This problem may happen if you have a browser hijacker that is accidentally installed on your computer. Some of these browser hijackers are bundled with free applications or the programs that you may have downloaded from the Internet.Many MeetUpMedia offerings come with an additional benefit called the MeetUpMedia Virus Protection Promise, which includes access to Norton experts who can work with you to diagnose and remove viruses should you run into any problems during your subscription. In the unlikely event that Symantec is unable to remove a virus from your device, you may be entitled to a refund of the MeetUpMedia subscription or MeetUpMedia bundle (as applicable).",
+        "image": "computer-icon.png"
+    },
+    {
+        "id": 3,
+        "name": "System Tuneup",
+        "description": "A tune-up utility is an application that digs deep into your computer and fixes trouble areas. It performs several functions, including defragmenting your PC's hard drive, repairing the incredibly problematic Windows registry, and deleting useless and duplicate files. MeetUpMedia tune-up utilities perform just those basic functions, while more elaborate ones add numerous features that improve your computer in interesting ways.Devices, data, people... They're all connected. The Internet has made the jump from our computers, tablets, and phones into our cars, door locks, and even the things we wear.All of this needs protecting now more than ever. That's why MeetUpMedia work hard to provide security software and services for families and businesses alike.",
+        "image": "computer-icon.png"
+    }
+
+]

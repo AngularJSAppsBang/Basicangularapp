@@ -1,0 +1,16 @@
+<h2>Services</h2>
+<div ng-repeat="service in services">
+    <div class="row service">
+        <div class="col-md-2">
+            <img ng-src="http://www.freeiconspng.com/uploads/system-computer-icon--metronome-iconset--cornmanthe3rd-14.png">
+        </div>
+        <div class="col-md-10">
+            <h3>{{service.name}}</h3>
+            <P>{{service.description}}</P>
+            <a href="#/contact" class="btn btn-primary">Contact Us</a>
+        </div>
+    </div>
+</div>
+
+
+<!--http://techguystaging.com/files/{{service.image}}-->
